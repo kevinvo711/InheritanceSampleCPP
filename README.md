@@ -1,2 +1,2 @@
 # SampleCodes
-Old school project code
+Old school project code in C++
